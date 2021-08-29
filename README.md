@@ -23,8 +23,20 @@
 <br>
 <br>
 
+<div align= center>
+<h3>
+How did you get into this world?
+</h3>
+</div>
+<br>
+
+<div align = center >
+When that epidemic hit humans, I found enough time to discover the gifts God gave me, so I delved deeper into martial arts and then technology, especially programming, where I became feeling myself inclined to it. One day I despair, and sometimes I get very excited, and at other times I compare myself to others, and nothing changes, and I don’t think I leave this situation until I praise God and think about His saying, Glory be to Him, in His Noble Book:﴾ but over every possessor of knowledge is one [more] knowing ﴿ Thank God !!
+
+</div>
+<br>
 <div align = center>
 
-![John's github stats](https://github-readme-stats.vercel.app/api?username=Mahmoudgarwallane&count_private=true&show_icons=true&theme=dark)
+![Mahmoud's github stats](https://github-readme-stats.vercel.app/api?username=Mahmoudgarwallane&count_private=true&show_icons=true&theme=dark)
 
 </div>
