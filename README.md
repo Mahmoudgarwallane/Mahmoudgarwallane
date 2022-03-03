@@ -13,7 +13,7 @@
 
 ## &#x1f4c8; GitHub Stats
 
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoudgarwallane&bg_color=30,0F01DC,D005F9,2A2A72&layout=compact&title_color=fff&border_color=2e4058&text_color=fff&include_all_commits=true&show_icons=true)](https://github.com/Mahmoudgarwallane/)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoudgarwallane&bg_color=30,0F01DC,D005F9&layout=compact&title_color=fff&border_color=2e4058&text_color=fff&include_all_commits=true&show_icons=true)](https://github.com/Mahmoudgarwallane/)
 
-[![My stats](https://github-readme-stats.vercel.app/api?username=Mahmoudgarwallane&bg_color=30,0F01DC,D005F9,2A2A72&title_color=fff&border_color=2e4058&text_color=fff&include_all_commits=true&show_icons=true)](https://github.com/Mahmoudgarwallane/)
+[![My stats](https://github-readme-stats.vercel.app/api?username=Mahmoudgarwallane&bg_color=30,0F01DC,D005F9&title_color=fff&border_color=2e4058&text_color=fff&include_all_commits=true&show_icons=true)](https://github.com/Mahmoudgarwallane/)
 
