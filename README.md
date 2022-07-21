@@ -9,13 +9,7 @@
 - 🎯 I'm doing my best to Master Flutter and dart 
 - ⚡ I'm looking to collaborate on open source projects
 - 💥 I'm looking forward to learn web dev
-- ✨ fun fact : I'm a high schooler who love arabic language
-
-## &#x1f4c8; GitHub Stats
-
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoudgarwallane&bg_color=30,0F01DC,D005F9&layout=compact&title_color=fff&border_color=2e4058&text_color=fff&include_all_commits=true&show_icons=true)](https://github.com/Mahmoudgarwallane/)
-
-[![My stats](https://github-readme-stats.vercel.app/api?username=Mahmoudgarwallane&bg_color=30,0F01DC,D005F9&title_color=fff&border_color=2e4058&text_color=fff&include_all_commits=true&show_icons=true)](https://github.com/Mahmoudgarwallane/)
+- ✨ fun fact : I always define functions and forget to call them
 
 ## 🍎 Skills 
 ![flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -29,3 +23,5 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
